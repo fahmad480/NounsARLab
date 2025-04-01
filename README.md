@@ -1,10 +1,38 @@
-# Nouns AR Lab
+# 🎭 Nouns AR Lab
 
-Nouns AR Lab is an application that combines the concept of YouTube Shorts and Camera Kit SDK from Snapchat. This application serves as a portfolio that displays videos using AR effects, allowing users to interact with and apply AR effects within the app.
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue" alt="Platform iOS | Android">
+  <img src="https://img.shields.io/badge/Flutter-3.0+-blueviolet" alt="Flutter 3.0+">
+  <a href="https://apps.apple.com/us/app/nouns-ar-lab/id6737252963"><img src="https://img.shields.io/badge/App%20Store-Available-brightgreen" alt="App Store Available"></a>
+  <img src="https://img.shields.io/badge/Google%20Play-Closed%20Testing-orange" alt="Google Play Closed Testing">
+</p>
 
-## Installation
+<p align="center">
+  <a href="https://apps.apple.com/us/app/nouns-ar-lab/id6737252963">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50" alt="Download on the App Store">
+  </a>
+</p>
 
-To install the Flutter project, follow these steps:
+Nouns AR Lab is an innovative application that combines the concept of YouTube Shorts with Snapchat's Camera Kit SDK. Experience the future of social media with our portfolio showcase that enables users to interact with videos using cutting-edge AR effects.
+
+## ✨ Features
+
+- 📱 **Seamless Video Scrolling** - Enjoy smooth, TikTok-like vertical scrolling
+- ⚡ **Smart Preloading** - Videos buffer in advance for uninterrupted viewing
+- 🎭 **AR Lens Gallery** - Explore a variety of augmented reality effects
+- 🔍 **Personalized Content** - Tailor your experience with content preferences
+- 📸 **Snapchat Camera Integration** - Powered by Snapchat's Camera Kit SDK
+- 🔄 **Social Sharing** - Share your favorite AR experiences with friends
+- 💾 **Save to Gallery** - Download videos and AR effects to your device
+
+## 📱 App Availability
+
+- **iOS**: Now available on the [App Store](https://apps.apple.com/us/app/nouns-ar-lab/id6737252963)!
+- **Android**: Currently in closed testing phase. Stay tuned for the public release!
+
+## 🚀 Installation
+
+To install the Flutter project for development, follow these steps:
 
 1. Make sure you have Flutter SDK installed on your machine. If not, you can download it from the official Flutter website.
 2. Clone the project repository using the following command:
@@ -33,15 +61,17 @@ To install the Flutter project, follow these steps:
 
 This will start the Flutter project on your device or emulator.
 
-## Android Setup
+## ⚙️ Platform Setup
+
+### Android Setup
 
 To enable Firebase services for Android, place your `google-services.json` file inside the `android/app/` directory.
 
-## iOS Setup
+### iOS Setup
 
 To enable Firebase services for iOS, place your `GoogleService-Info.plist` file inside the `ios/Runner/` directory.
 
-## Enable Localization for CameraKit for iOS
+## 🌐 Enable Localization for CameraKit for iOS
 
 To enable localization for CameraKit, follow these steps:
 
@@ -49,30 +79,22 @@ To enable localization for CameraKit, follow these steps:
 2. Make sure the `SCCameraKitReferenceUI` target is selected in the "Target Membership" section on the right side of Xcode.
 3. Build the project to apply the changes.
 
-![Enable Localization for CameraKit](documentation/enable_localization_camerakit.gif)
+<p align="center">
+  <img src="documentation/enable_localization_camerakit.gif" alt="Enable Localization for CameraKit" width="600">
+</p>
 
-## Additional Configuration for Camera Kit SDK
+## 📚 Additional Configuration for Camera Kit SDK
 
 For additional configuration of Camera Kit SDK, refer to the repository:
 [Camera Kit Flutter](https://github.com/DevCrew-io/camerakit-flutter).
 
-## Features
+## 📝 TODOs
 
-1. Scrollable video
-2. Preload video
-3. Lens list
-4. Content preferences
-5. Snapchat Camera Kit SDK integration
-6. Share to social media
-7. Save to gallery
+1. 🎨 Improve UI to be more visually appealing, avoiding Flutter stock UI.
+2. 👆 Make lens list clickable.
+3. 🔄 Backup server content/storage and database.
 
-## TODOs
-
-1. Improve UI to be more visually appealing, avoiding Flutter stock UI.
-2. Make lens list clickable.
-3. Backup server content/storage and database.
-
-## Contributors
+## 👥 Contributors
 
 - **Imam Solihin** (Project Manager, Nouns DAO Holder)  
   - [Instagram](https://www.instagram.com/mmsolihin)  
@@ -81,7 +103,7 @@ For additional configuration of Camera Kit SDK, refer to the repository:
   - [Instagram](https://www.instagram.com/faraaz.id)  
   - [LinkedIn](https://www.linkedin.com/in/faraazahmadpermadi/)  
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions! Follow these steps to contribute:
 
