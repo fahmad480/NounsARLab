@@ -96,7 +96,7 @@ For additional configuration of Camera Kit SDK, refer to the repository:
 
 ## 👥 Contributors
 
-- **Imam Solihin** (Project Manager, Nouns DAO Holder)  
+- **Imam Solihin** (Project Manager)  
   - [Instagram](https://www.instagram.com/mmsolihin)  
   - [LinkedIn](https://www.linkedin.com/in/imam-solihin-9bb04975/)  
 - **Faraaz Ahmad Permadi** (App Developer)  
